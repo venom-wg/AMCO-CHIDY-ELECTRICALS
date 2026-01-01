@@ -1,0 +1,8 @@
+{
+  "name": "AMCO CHIDY ELECTRICAL",
+  "description": "A high-end, modern electrical supply platform offering residential, commercial, and industrial solutions with an AI-powered expert assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
